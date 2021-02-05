@@ -54,6 +54,9 @@ class _MyHomePageState extends State<MyHomePage> {
               'this is a new Text',
             ),
             Text(
+              "This is empty",
+            ),
+            Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
